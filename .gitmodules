@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TruongHidu/KiotTayBackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TruongHidu/KiotTayFrontend.git
+[submodule "app"]
+	path = app
+	url = https://github.com/TruongHidu/KiotTayApp.git
